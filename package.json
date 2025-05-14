@@ -1,0 +1,26 @@
+{
+  "name": "js-fun-facts",
+  "version": "1.0.0",
+  "description": "A lightweight package that provides fun facts about Node.js, JavaScript, and npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fun",
+    "facts",
+    "demo",
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "gendarme_zero",
+  "license": "ISC",
+  "readme": "README.md",
+  "engines": {
+    "node": ">=14"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
