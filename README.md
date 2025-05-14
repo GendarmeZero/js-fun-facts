@@ -40,4 +40,4 @@ console.log(`Random facts about Npm : ${npmRandomFacts}`);
 
 ## 🪪 Credit
 Made with ❤️ by Gendarme_Zero
-https://github.com/GendarmeZero
+https://github.com/GendarmeZero/js-fun-facts
